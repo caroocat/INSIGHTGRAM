@@ -1,0 +1,171 @@
+{
+  "feeds": [
+    {
+      "group": "Marketplace",
+      "feeds": [
+        {
+          "id": "1",
+          "name": "Pelotita 1",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "2",
+          "name": "Pelotita 2 otras cosa",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "3",
+          "name": "Pelotita 1",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "4",
+          "name": "Pelotita 2",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "5",
+          "name": "Pelotita 1",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "6",
+          "name": "Pelotita 2",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        }
+      ]
+    },
+    {
+      "group": "MercadoPago",
+      "feeds": [
+        {
+          "id": "7",
+          "name": "Pelotita 3",
+          "is_suscribed": true,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdUAqDNi7HsJx5y07Kpipjb5FeoGgNPMV8wGpC7ZAxUK1E-qxb"
+        },
+        {
+          "id": "8",
+          "name": "Pelotita 4",
+          "is_suscribed": false,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdUAqDNi7HsJx5y07Kpipjb5FeoGgNPMV8wGpC7ZAxUK1E-qxb"
+        }
+      ]
+    },
+    {
+      "group": "MercadoEnvios",
+      "feeds": [
+        {
+          "id": "9",
+          "name": "Pelotita 5",
+          "is_suscribed": false,
+          "thumbnail": "https://lh3.googleusercontent.com/ZpEXIs2LPO5kPNDc8rqLY6XUMlyTsSMonXLVBGZUhChAGPELYqJ2U3apEWgFWVLU3FU"
+        },
+        {
+          "id": "10",
+          "name": "Pelotita 6",
+          "is_suscribed": true,
+          "thumbnail": "https://lh3.googleusercontent.com/ZpEXIs2LPO5kPNDc8rqLY6XUMlyTsSMonXLVBGZUhChAGPELYqJ2U3apEWgFWVLU3FU"
+        },
+        {
+          "id": "11",
+          "name": "Pelotita 1",
+          "is_suscribed": false,
+          "thumbnail": "https://lh3.googleusercontent.com/ZpEXIs2LPO5kPNDc8rqLY6XUMlyTsSMonXLVBGZUhChAGPELYqJ2U3apEWgFWVLU3FU"
+        },
+        {
+          "id": "12",
+          "name": "Pelotita 2",
+          "is_suscribed": true,
+          "thumbnail": "https://lh3.googleusercontent.com/ZpEXIs2LPO5kPNDc8rqLY6XUMlyTsSMonXLVBGZUhChAGPELYqJ2U3apEWgFWVLU3FU"
+        }
+      ]
+    },
+    {
+      "group": "MercadoCredito",
+      "feeds": [
+        {
+          "id": "13",
+          "name": "Pelotita 7",
+          "is_suscribed": false,
+          "thumbnail": "https://pbs.twimg.com/profile_images/898319433516687361/x7Q6lvxz_400x400.jpg"
+        },
+        {
+          "id": "14",
+          "name": "Pelotita 8",
+          "is_suscribed": true,
+          "thumbnail": "https://pbs.twimg.com/profile_images/898319433516687361/x7Q6lvxz_400x400.jpg"
+        }
+      ]
+    },
+    {
+      "group": "MercadoShops",
+      "feeds": [
+        {
+          "id": "15",
+          "name": "Pelotita 9",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "16",
+          "name": "Pelotita 10",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "17",
+          "name": "Pelotita 1",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "18",
+          "name": "Pelotita 2",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        }
+      ]
+    },
+    {
+      "group": "MercadoLIibreAdvertising",
+      "feeds": [
+        {
+          "id": "19",
+          "name": "Pelotita 11",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "20",
+          "name": "Pelotita 12",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        }
+      ]
+    },
+    {
+      "group": "MercadoLibre",
+      "feeds": [
+        {
+          "id": "21",
+          "name": "Pelotita 13",
+          "is_suscribed": false,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        },
+        {
+          "id": "22",
+          "name": "Pelotita 14",
+          "is_suscribed": true,
+          "thumbnail": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2"
+        }
+      ]
+    }
+  ]
+}
